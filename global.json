@@ -24,7 +24,7 @@
     "Microsoft.DotNet.Arcade.Sdk": "10.0.0-beta.25416.109",
     "Microsoft.DotNet.Helix.Sdk": "10.0.0-beta.25416.109",
     "Microsoft.Build.NoTargets": "3.7.0",
-    "Microsoft.Build.Traversal": "3.4.0",
+    "Microsoft.Build.Traversal": "4.1.82",
     "Microsoft.WixToolset.Sdk": "5.0.2-dotnet.2737382"
   }
 }
